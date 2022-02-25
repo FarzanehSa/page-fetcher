@@ -59,7 +59,7 @@ if (input.length !== 2) {
 }
 
 const url = input[0];   //  http://www.example.edu 
-const path = input[1];  //  ./index.txt
+const path = input[1];  //  ./index.html
 
 fetcher(url,path);
 
